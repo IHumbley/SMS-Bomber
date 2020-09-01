@@ -3,12 +3,13 @@
 [![Python](https://img.shields.io/badge/python-v3-blue.svg)]()
 <br/>
 
-# A Simple Iranian Sms bomber
+**A Simple Iranian Sms bomber**
 
 # Requirements
 -   Python _v3.x.x_
 -   Proxy/Tor
-**Run**  
+
+# Run
 1. git clone https://github.com/MrSubmissive/SMS-Bomber
 2. python3 sms_bomber.py
 
