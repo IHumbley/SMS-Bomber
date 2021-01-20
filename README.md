@@ -19,4 +19,4 @@ If You want to use this script with HTTP/HTTPS proxy you can run sms_bomberProxy
 > Dependencies  
 > - [requests](https://pypi.org/project/requests/)  
 > - [time](https://docs.python.org/3/library/time.html)
-> - [threading](https://docs.python.org/3/library/threading.html
+> - [threading](https://docs.python.org/3/library/threading.html)
